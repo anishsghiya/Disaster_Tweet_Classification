@@ -9,4 +9,4 @@ The link to the kaggle repository [Dataset](https://www.kaggle.com/c/nlp-getting
 
 In order to attain best accuracy I cleaned the text using NLTK and Regex libraries of python. For classification i used the BERT model using pytorch. 
 
-At the time of creating this repository I rank 167/3819 teams. [Leaderboard](https://www.kaggle.com/c/nlp-getting-started/leaderboard)
+At the time of creating this repository I rank 25/891 teams. [Leaderboard](https://www.kaggle.com/c/nlp-getting-started/leaderboard)
